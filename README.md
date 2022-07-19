@@ -45,6 +45,7 @@ Dizi sıralandıktan sonra 18 sayısının ortada olmasından dolayı Average Ca
     ```
 
        [7,3,5,8,2,9,4,15,6]
+       
     1. [3,7,5,8,2,9,4,15,6]
     2. [3,5,7,8,2,9,4,15,6]
     3. [3,5,7,8,2,9,4,15,6]
